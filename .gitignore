@@ -1,0 +1,10 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]serSettings/
+.vs/
+.gradle/
+[Bb]uildCache/
+.DS_Store
+Thumbs.db
